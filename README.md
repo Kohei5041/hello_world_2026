@@ -2,3 +2,4 @@
 for PBL2 2026
 print("1+1=2")
 新しいブランチで一行追加してみました。
+ New line added by a local environment.
